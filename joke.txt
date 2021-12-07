@@ -1,0 +1,21 @@
+
+{
+    "error": false,
+    "category": "Spooky",
+    "type": "twopart",
+    "setup": "Why did the ghost go inside the bar?",
+    "delivery": "For the boos.",
+    "flags": 
+{
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false    
+}
+,
+    "safe": true,
+    "id": 299,
+    "lang": "en"
+}
